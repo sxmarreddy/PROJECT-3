@@ -1,5 +1,4 @@
 
-
 def add_expense(expenses):
     amount = float(input("Enter the amount spent: "))
     description = input("Enter a brief description: ")
